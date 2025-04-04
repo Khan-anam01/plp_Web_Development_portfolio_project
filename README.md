@@ -12,4 +12,4 @@ This is a personal portfolio website built using only HTML and CSS. It showcases
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   [git clone https://github.com/your-username/portfolio-website.git](https://github.com/Khan-anam01/plp_Web_Development_portfolio_project.git)
